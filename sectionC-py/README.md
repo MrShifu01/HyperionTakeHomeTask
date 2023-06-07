@@ -1,4 +1,4 @@
-# Say The Name
+# Say The Number
 
 This repository contains a Python script that converts a given number into its spoken representation. It also includes unit tests to verify the correctness of the implementation. The solution is compatible with Linux, macOS, and Windows operating systems.
 
